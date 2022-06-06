@@ -37,7 +37,7 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-10 col-md-3">
                         <div class="logo">
-                            <a href="index.html"><img src="images/Untitled_design-removebg-preview.png" style="width: 50%;margin-left:-20px;margin-top: -14px;margin-bottom: -14px;"></a>
+                            <a href="index.html"><img src="Untitled_design-removebg-preview.png" style="width: 50%;margin-left:-20px;margin-top: -14px;margin-bottom: -14px;"></a>
                         </div>
                         <div class="mobile-menu"></div>
                     </div>
@@ -95,7 +95,7 @@
               </button>
                 </div>
                 <div class="col-6">
-                    <img src="images/vvv.png" class="w3-round" alt="" style="width: 100%;height:auto;margin-top:5%;margin-left:-8px;">
+                    <img src="vvv.png" class="w3-round" alt="" style="width: 100%;height:auto;margin-top:5%;margin-left:-8px;">
                 </div>
             </div>
         </div>
@@ -147,25 +147,25 @@
 
         <div class="gallery" style="margin: 5px;border: 1px solid #ccc;float: left;width: 32%;">
             <div>
-                <img src="images/Empire_State.jpg" alt="">
+                <img src="Empire_State.jpg" alt="">
             </div>
 
         </div>
         <div class="gallery" style="margin: 5px;border: 1px solid #ccc;float: left;width: 31%;background-color:lightgrey;">
             <div>
-                <img src="images/78-787789_legal-icon-png-transparent-png-removebg-preview.png" " alt=" " style="width: 62%;margin-left:70px; "></div>
+                <img src="78-787789_legal-icon-png-transparent-png-removebg-preview.png" " alt=" " style="width: 62%;margin-left:70px; "></div>
             <div>
                 <h1 style="text-align: center; ">Banking consulting</h1>
             </div>
             <div class="desc " style="padding: 15px;text-align: center;font-size: 16px; ">Helping lenders and servicers transform their business and operations to drive profitable growth, differentiated customer experience and operational efficiency.</div>
         </div>
         <div class="gallery " style="margin: 5px;border: 1px solid #ccc;float: left;width: 32%;background-color:lightgrey; ">
-            <div><img src="images/78-787789_legal-icon-png-transparent-png-removebg-preview.png " alt=" " style="width: 62%;margin-left:84px; "></div>
+            <div><img src="78-787789_legal-icon-png-transparent-png-removebg-preview.png " alt=" " style="width: 62%;margin-left:84px; "></div>
             <div>
                 <h1 style="text-align: center; ">Juridical Help
                 </h1>
             </div>
-            <div class="desc " style="padding: 15px;text-align: center;font-size: 15px; ">Helping lenders and servicers transform their business and operations to drive profitable growth, differentiated customer experience and operational efficiency.</div>
+            <div class="desc" style="padding: 15px;text-align: center;font-size: 15px; ">Helping lenders and servicers transform their business and operations to drive profitable growth, differentiated customer experience and operational efficiency.</div>
         </div>
 
     </section>
@@ -196,7 +196,7 @@
                         example from literature, there are more sentences than a general student-written paragraph has.</p>
                 </div>
                 <div class="col-6 ">
-                    <img src="images/cvvc.jpg " class="img-thumbnail " alt=" " style="width:100%;margin-top: 150px;box-shadow:5px 5px 5px 5px dimgrey; ">
+                    <img src="cvvc.jpg " class="img-thumbnail " alt=" " style="width:100%;margin-top: 150px;box-shadow:5px 5px 5px 5px dimgrey; ">
                 </div>
             </div>
         </div>
@@ -209,7 +209,7 @@
                 <div>
                     <h1 style="text-align: center;background-color:black;color:white;margin-top:0; ">GOOD LEADERS</h1>
                 </div>
-                <div><img src="images/hgghgh.jpg " alt=" " style="width: 92%;margin-left: 15px; "></div>
+                <div><img src="hgghgh.jpg " alt=" " style="width: 92%;margin-left: 15px; "></div>
 
                 <div class="desc " style="padding: 15px;text-align: center;font-size: 16px; ">The importance of integrity should be obvious. Though it may not necessarily be a metric in employee evaluations, integrity is an essential leadership trait for the individual and the organization.</div>
                 <button type="button " name="Get in Touch " value="Get in Touch " style="margin-bottom:10px;margin-left:120px;font-size:20px;font-weight:bold; " class="btn btn-outline-dark ">Get in Touch</button>
@@ -218,7 +218,7 @@
                 <div>
                     <h1 style="text-align: center;background-color:black;color:white;margin-top:0; ">EFFECTIVE LEADERS</h1>
                 </div>
-                <div><img src="images/bvvb.jpg " alt=" " style="width: 92%;margin-left: 15px; "></div>
+                <div><img src="bvvb.jpg " alt=" " style="width: 92%;margin-left: 15px; "></div>
 
                 <div class="desc " style="padding: 15px;text-align: center;font-size: 16px; ">The importance of integrity should be obvious. Though it may not necessarily be a metric in employee evaluations, integrity is an essential leadership trait for the individual and the organization.</div>
              <button type="button " name="Get in Touch " value="Get in Touch " style="margin-bottom:10px;margin-left:120px;font-size:20px;font-weight:bold; " class="btn btn-outline-dark ">Get in Touch</button>
@@ -228,7 +228,7 @@
                     <h1 style="text-align: center;background-color:black;color:white;margin-top:0; ">COACHING
                     </h1>
                 </div>
-                <div><img src="images/jjhjh.jpg " alt=" " style="width: 92%; "></div>
+                <div><img src="jjhjh.jpg " alt=" " style="width: 92%; "></div>
 
                 <div class="desc " style="padding: 15px;text-align: center;font-size: 15px; ">The importance of integrity should be obvious. Though it may not necessarily be a metric in employee evaluations, integrity is an essential leadership trait for the individual and the organization.</div>
                 <button type="button "   name="Get in Touch " value="Get in Touch " class="btn btn-outline-dark  " style="margin-bottom:10px;margin-top:15px;margin-left:120px;font-size:20px;font-weight:bold; ">Get in Touch</button>
@@ -241,7 +241,7 @@
         <div class="container ">
             <div class="row ">
                 <div class="col-6 ">
-                    <img src="images/jhhj.jpg " alt=" " style="margin-bottom:50px;width: 100%;margin-top:20%;box-shadow:5px 5px 5px 5px dimgrey; " class="img-thumbnail ">
+                    <img src="jhhj.jpg " alt=" " style="margin-bottom:50px;width: 100%;margin-top:20%;box-shadow:5px 5px 5px 5px dimgrey; " class="img-thumbnail ">
                 </div>
                 <div class="col-6 ">
                     <p style="font-size: 20px; margin-top:20%; ">The history of the consulting industry commences in the late nineteenth century with the founding of the world’s first modern consulting organisations, also known as business advisory firms. In the early days of the consulting industry
@@ -269,7 +269,7 @@
                     <button type="button " class="btn btn-outline-dark " name="contact " value="8077362765 " style="font-size:20px; ">8077362765</button>
                 </div>
                 <div class="col-6 ">
-                    <img src="images/Solution-Focused-Therapy-700x368.jpg " class="img-thumbnail " alt=" " style="width: 100%;margin-top:20%;box-shadow:5px 5px 5px 5px dimgrey; ">
+                    <img src="Solution-Focused-Therapy-700x368.jpg " class="img-thumbnail " alt=" " style="width: 100%;margin-top:20%;box-shadow:5px 5px 5px 5px dimgrey; ">
                 </div>
             </div>
         </div>
@@ -280,7 +280,7 @@
     <div class="container ">
         <div class="row ">
             <div class="col-6 ">
-                <img src="images/dfdfdffffffffff.jpg " alt=" " style="width: 100%;margin-top:20%; ">
+                <img src="dfdfdffffffffff.jpg " alt=" " style="width: 100%;margin-top:20%; ">
             </div>
             <div class="col-6 " style="margin-top: 8%; ">
                 <h1 class="head2 " style="font-weight: bold;text-align:center; ">CONTACT NOW</h1>
